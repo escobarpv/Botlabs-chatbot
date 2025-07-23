@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es" data-bs-theme="auto">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#ced4da">
+    <!-- Metadatos para compartir en redes sociales -->
+    <meta property="og:image" content="/images/kartbot-profile.png">
+    <meta name="twitter:image" content="/images/kartbot-profile.png">
+    <meta property="og:description" content="KartBot, tu asistente oficial del Karting Experience 2025, optimizando tu experiencia con horarios, ubicación y detalles del evento.">
+    <meta name="twitter:description" content="KartBot, tu asistente oficial del Karting Experience 2025, optimizando tu experiencia con horarios, ubicación y detalles del evento.">
+    <title>KartBot</title>
+
+    <!-- Dependencias externas -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.js"></script>
+    
+    <!-- Estilos y scripts propios -->
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+
+  <body>
+      
+      <div class="container-fluid">
+        <div class="row justify-content-center">
+          <div class="card card-light">
+            <div id="chat-container" class="card-body msg_card_body">
+            </div>
+            <div class="card-footer">
+              <div class="input-group">
+                <input id="userInput" type="text" autocomplete="off" autocorrect="on" spellcheck="true" class="form-control type_msg text_input_btn" placeholder="Escribe un mensaje..."
+                  aria-label="Mensaje de usuario" />
+                <div class="input-group-append">
+                  <button id="sendBtn" class="btn btn-primary send_btn btn-light" type="button" style="padding-top: .55rem;">
+                    Enviar
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Scripts propios -->
+      <script src="/js/chat.js"></script>
+  </body>
+</html>

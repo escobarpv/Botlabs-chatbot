@@ -1,0 +1,167 @@
+Energizando el futuro
+Explorando el potencial de las baterías de litio para las UPS.
+
+¿Por qué usar baterias de litio?
+1) Mayor densidad energética: Almacenan más energía en menor espacio y peso. Equipos más compactos y eficientes.
+
+2) Mayor vida útil: Soportan mayores números de ciclos de carga y descarga, reduciendo frecuencia de reemplazos.
+
+3) Mayor eficiencia: Mayor eficiencia en la conversión de energía. Menor consumo energético y reducción de la huella de carbono.
+
+4) Menor tasa de autodescarga: Pierden menos carga cuando no están en uso.
+
+
+Diferenciadores ambientales.
+
+
+- Menor impacto ambiental: Producción de batería de litio genera menos residuos y emisiones de gases efecto invernadero.
+
+- Reciclabilidad: Los componentes de las baterías de litio pueden ser reciclados en un alto porcentaje.
+
+- Menor generación de calor: Producen menos calor durante la carga y descarga. Reduce la necesidad de sistemas de refrigeración y mejora la eficiencia energética.
+
+¿Por que escoger APC by SE?
+Experiencia y liderazgo -> Líder en el mercado y amplia experiencia que nos permite ofrecer productos y servicios adaptados a una gran variedad de entornos.
+
+
+Amplio portafolio de productos ->  diversidad que te permite encontrar la solución ideal para tu entorno específico.
+
+
+Calidad y Fiabilidad -> Diseño y fabricación bajo los más altos estándares de calidad.
+
+
+Integraciones con otras soluciones -> Si eres usuario de otras soluciones SE podrás integrar fácilmente los productos APC en tu infraestructura existente.
+
+
+Sostenibilidad ->  Compromiso con el medio ambiente al desarrollar soluciones que contribuyen a reducir el impacto ambiental.
+
+
+
+APC Back-UPS Connect 12Vdc
+El nuevo APC Back-UPS Connect es un sistema de alimentación ininterrumpida (UPS) diseñado específicamente para alimentar enrutadores/módems compatibles, sistemas VoIP y otros dispositivos domésticos inteligentes durante un corte de energía.
+Confiable. Flexible. Asequible
+Continuidad segura del servicio para los equipos conectados durante cortes de energía
+Características Clave
+Entrada/ Salida DC:
+Diseñado para admitir diversas aplicaciones de red de 12 V CC, como módems y enrutadores.
+Multiples entradas:
+Viene con 3 conectores de salidad DC diferentes para garantizar la compatibilidad con múltiples dispositivos de red.
+Batería de iones de litio:
+Proporciona una vida útil significativamente más larga que la batería VRLA tradicional.
+Largo tiempo de Ejecución:
+Hasta 4 horas de tiempo de ejecución para un enrutador promedio para garantizar una conectividad confiable.
+Diseño compacto:
+Tamaño reducido para una fácil instalación en espacios reducidos.
+Indicadores LED:
+indicadores fáciles de leer que proporcionan información sobre la capacidad de la batería.
+
+Potencia: 36W
+Tensión de entrada: 12 Vdc
+Rango de tensión de entrada: 11.4 - 12.6 Vdc
+Tensión de salida: 12Vdc
+Conectores de salida: 3 OC tips (2.5 mm, 2.1 mm, 1.7mm)
+Autonomía al 80% de carga: 45 mins
+Tipo de Batería: Iones de litio
+Capacidad de la batería: 27.75 Wh
+Dimensiones (An x Pr x Al): 99 x 109 x 25 mm
+Peso: 0.3 kg
+
+Aplicaciones
+Router
+Asistente doméstico inteligente
+Camara IP
+Sistema de telefonía VOIP
+
+
+
+Smart-UPS Ultra 2 .2 - 3 kW
+Smart-UPS Ultra
+• 50% más pequeño y liviano Opciones de montaje en rack, torre, techo, pared y debajo del escritorio
+• Baja profundidad (perfecto para racks de montaje en pared).
+• No es necesario cambiar la batería en condiciones normales durante la vida útil
+Baterías de lltti1um ion
+• 3 veces el ciclo de vida de las baterías de plomo ácido (VRLA)
+5 años de garantía
+• Garantía total en electrónica y baterías.
+EcoStruxure Ready
+• EcoStruxure Ready, para la supervisión. la gestión y el servicio remotos simplificados
+
+Beneficios claves
+50% mas pequeño, mas ligero:
+• La mitad del tamaño y el peso gracias a las tecnologías de semiconductores de proxima generacion.
+•2.4 veces mas potencia, recarga 2 veces mas rapida.
+
+Flexibilidad de instalación:
+• Los soportes de montaje todo en uno brindan 5 opciones: rack, torre, techo, pared y montaje bajo escritorio.
+
+Resilencia: 
+• Ciclos de vida de la bateria triplicado equivale a menos mantenimiento.
+• Menos visitas in situ, mas tiempo de actividad, mas productividad.
+
+
+
+Smart-UPS Ultra 5kW
+Smart-UPS Ultra
+• Un 33% más pequero y un 55% mas liviano que cualquier UPS comparable.
+• 1.5 veces más densidad de potencia y opciones de extensión de tiempos de autonomía.
+• Conversión en rack/torre sin esfuerzo gracias a la pantalla LCD giratoria automática.
+• No es necesario cambiar la bateria en condiciones normales de funcionamiento durante la vida util del UPS.
+Baterías de lithium ion
+• 3 veces el ciclo de vida de las baterías de plomo ácido (VRLA).
+5 años de garantía
+• Garantía total en electrónica y baterias
+EcoStruxure Ready
+• EcoStruxure Ready, para la supervisión. la gestión y el servicio remotos simplificados, minimiza ras visitas en persona.
+
+33% mas pequeño y 55% mas ligero:
+• Mas pequeño y ligero gracias a las tecnologías de semiconductores de próxima generación
+• 5000W/5000VA
+
+1.5 veces mas de densidad de potencia:
+• 1.5 veces mas densidad de potencia que un UPS con baterías VRLA
+
+Resilencia:
+• Ciclo de vida de la batería triplicado equivalente a menos mantenimiento
+• Menos visitas in situ, mas tiempo de actividad, mas productividad.
+
+
+
+¿Energía segura e ininterrumpida para cajeros automáticos?
+Nuestra UPS Smart Ultra Litio-Ion es la respuesta.
+
+Los cajeros a automáticos necesitan energía ininterrumpida para asegurar su  disponibilidad.
+Las condiciones de operación son cada vez más restrictivas en cuanto a espacio, mantenimiento y monitoreo.
+
+El nuevo lanzamiento de APC by Schneider Electric la UPS Smart Ultra con batería de litio está diseñada especialmente para los retos en el sector bancario:
+Más pequeño, más liviano
+- Única UPS que ocupa desde 1U de rack (4,445 cm)
+- 50% más liviana. desde soto 14.7Kg.
+- Recarga en solo 1.5 horas el 90% de la batería.
+Flexibilidad en instalación
+- Los soportes de montaje lodo en uno brindan 5 opciones: Rack. torre. techo. pared y montaje bajo escritorio.
+Resiliencia
+- Menos mantenimiento por ciclo de vida extendido de la bateria
+- 30% menos costo total de propiedad. Menos visitas en sitio, menos reemplazos de baterías y mayor eficiencia.
+Garantía y tiempo de vida
+- 5 años de garantía total en electrónica y baterias.
+- No requiere cambios de balería en condiciones normales durante su vida útil (1O años)
+- Las balerías Ion Litio tienen 3 veces el ciclo de vida de una tipo VRLA común.
+Monitoreo
+- Supervisión y análisis predictivos de falla o reemplazos en tiempo real desde cualquier lugar de toda su base instalada en una sola aplicación.
+Capacidad inigualable
+- Disponible en 2.2/3/5/8 y 10kva
+- Capacidad real:
+- 2kva / 1950W
+- 3Kva / 3.000 W
+- 5kVA / 5.000 W
+- 8kVA / 8.000 W
+- 10kVA / 10.000 W
+
+
+¿Qué es EcoStruxure IT Expert?
+Software basado en la nube. Brinda visibilidad segura, en cualquier momento, en cualquier lugar y en desde cualquier dispositivo.
+Visibilidad: Centralizada, plataforma de monitoreo con datos en tiempo real.
+Mobilidad: Accesible desde cualquier dispositivo, desde la app, buscador web con autenticación doble factor. No requiere VPN.
+Benchmarking: Datos de UPSs, cooling systems y otros equipos de infraestructura TI son guardados en el data lake de EcoStruxure IT. Los datos de forma anónima se analizan para comparar el rendimiento de
+sus dispositivos con la industria.
+Assessment: Obtenga información del puntaje asignado a sus UPSs y reciba recomendaciones sobre cómo mejorarlo.

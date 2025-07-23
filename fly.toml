@@ -1,0 +1,31 @@
+# fly.toml app configuration file generated for kartbot-apc on 2025-02-27T15:27:39Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'kartbot-apc'
+primary_region = 'scl'
+
+[build]
+
+[env]
+  PORT = '8080'
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  max_machines_running = 4
+  processes = ['app']
+  concurrency = {type = "connections", hard_limit = 600, soft_limit = 500}
+
+[processes]
+  app = "node src/server.js"
+
+[[vm]]
+  cpu_kind = 'shared'
+  cpus = 2
+  memory = '1.5gb'
+  memory_mb = 1536

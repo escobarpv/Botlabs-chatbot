@@ -1,0 +1,290 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.container-fluid {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.row.justify-content-center {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+}
+.card.card-light {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  min-height: 0;
+  height: 100%;
+  max-height: 100vh;
+}
+.card.card-light {
+  min-height: 0;
+  height: 100%;
+}
+.card-footer {
+  flex-shrink: 0;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #ededed; 
+}
+/* === CONTENEDOR DEL CHAT === */
+.card-light {
+    background-color: rgba(247,247,247,0.4) !important;
+}
+.card-header {
+    border-bottom: 0 !important;
+}
+.card-light .card-header {
+    background-color: rgba(255,255,255,0.3) !important;
+}
+.card-footer {
+    border-top: 0 !important;
+    padding: 10px;
+    background-color: rgba(235,235,235,1) !important;
+    flex-shrink: 0;
+}
+.msg_card_body {
+    overflow-y: auto;
+    flex: 1 1 auto;
+    min-height: 0;
+}
+
+/* === ESTILOS DE ENTRADA DE TEXTO === */
+.type_msg {
+    background-color: rgba(0,0,0,0.3) !important;
+    border: 0 !important;
+    color: white !important;
+    height: 48px !important;
+    overflow-y: auto;
+}
+.type_msg:focus {
+    box-shadow: none !important;
+    outline: 0px !important;
+}
+.card-light .text_input_btn {
+    border-radius: 10px 0 0 10px !important;
+    background-color: rgba(255,255,255,1) !important;
+    border: 0 !important;
+    color: black !important;
+    cursor: text;
+}
+.card-dark .text_input_btn {
+    border-radius: 10px 0 0 10px !important;
+    background-color: rgba(0,0,0,0.3) !important;
+    border: 0 !important;
+    color: white !important;
+    cursor: text;
+}
+.send_btn {
+    border-radius: 0 10px 10px 0 !important;
+}
+
+/* === ESTILOS DE AVATAR === */
+.user_img {
+    height: 70px;
+    width: 70px;
+    border: 1.5px solid #f5f6fa;
+    background-color: white;
+}
+.user_img_msg {
+    height: 40px;
+    width: 40px;
+    border: 1.5px solid #f5f6fa;
+}
+.img_cont {
+    position: relative;
+    height: 70px;
+    width: 70px;
+}
+.img_cont_msg {
+    height: 40px;
+    width: 40px;
+}
+.online_icon {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    background-color: #4cd137;
+    border-radius: 50%;
+    bottom: 0.2em;
+    right: 0.4em;
+    border: 1.5px solid white;
+}
+
+/* === ESTILOS DE INFO DE USUARIO === */
+.user_info {
+    margin-top: auto;
+    margin-left: 15px;
+}
+.card-light .user_info span {
+    font-size: 20px;
+    color: #4b4b4b;
+}
+.card-light .user_info p {
+    font-size: 10px;
+    color: rgba(38,38,38,0.6);
+}
+.card-dark .user_info span {
+    font-size: 20px;
+    color: #d2d2d2;
+}
+.card-dark .user_info p {
+    font-size: 10px;
+    color: rgba(210, 210, 210, 0.6);
+}
+
+/* === ESTILOS DE BURBUJAS DE MENSAJE === */
+.msg_container {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    border-radius: 0 15px 15px 15px;
+    padding: 10px;
+    position: relative;
+    max-width: 85%;
+    overflow-wrap: break-word;
+}
+.card-light .msg_container{
+    background-color: #fbfbfb;
+}
+.card-dark .msg_container{
+    background-color: white;
+}
+.msg_container_send {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 10px;
+    border-radius: 15px 0 15px 15px;
+    padding: 10px;
+    position: relative;
+}
+.card-light .msg_container_send{
+    background-color: #e2ffc9;
+}
+.card-dark .msg_container_send{
+    background-color: #78e08f;
+}
+.justify-content-start .msg_container:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    border: 18px solid transparent;
+    border-top-width: 0;
+    left: -28px;
+    border-right-width: 16px;
+}
+.card-light .justify-content-start .msg_container:before{
+    border-right-color: #fbfbfb;
+}
+.card-dark .justify-content-start .msg_container:before{
+    border-right-color: white;
+}
+.justify-content-end .msg_container_send:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    border: 18px solid transparent;
+    border-top-width: 0;
+    right: -28px;
+    border-left-width: 16px;
+}
+.card-light .justify-content-end .msg_container_send:after{
+    border-left-color: #e2ffc9;
+}
+.card-dark .justify-content-end .msg_container_send:after{
+    border-left-color: #78e08f;
+}
+.msg_container p {
+    margin-bottom: 0px !important;
+}
+.long-url {
+    word-break: break-all;
+    overflow-wrap: break-word;
+}
+
+/* === ESTILOS PARA NAVBAR Y LOGOS === */
+.navbar {
+    max-height: 80px;
+}
+.logo {
+    max-width: 192px;
+}
+.desktop-logo {
+    display: block;
+}
+.mobile-logo {
+    display: none;
+}
+.card-header .container {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar .container .navbar-brand:last-child {
+    margin-right: 0px !important;
+}
+.chat {
+    margin-top: 15px !important;
+}
+.card-header .container {
+    justify-content: center;
+    gap: 5px;
+}
+body {
+    font-size: 0.875rem;
+}
+#userInput {
+    font-size: 0.875rem;
+}
+.navbar {
+    height: 80px;
+}
+.desktop-logo {
+    display: none;
+}
+.mobile-logo {
+    display: block;
+    max-width: 85px !important;
+}
+body {
+    font-size: 0.875rem; /* Ajusta este valor según tus necesidades */
+}
+#userInput {
+    font-size: 0.875rem; /* Ajusta este valor según tus necesidades */
+}
+
+/* === CORRECCIÓN DE VISUALIZACIÓN CAMPO DE TEXTO === */
+#userInput {
+    -webkit-text-security: none;
+    -moz-text-security: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    font-size: 1rem;
+}
+#userInput:focus {
+    caret-color: auto;
+}
